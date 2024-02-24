@@ -1,1 +1,1 @@
-# python_softwaretesting
+# Repository for Python Training
